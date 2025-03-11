@@ -123,7 +123,7 @@ const Footer = () => {
       <div className="border-t border-teal-900">
         <div className="max-w-6xl mx-auto px-4 py-4">
           <div className="flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
-            <p>© 2024 Embassy Lounge. All rights reserved.</p>
+            <p>© 2025 Embassy Lounge. All rights reserved.</p>
             <div className="flex gap-4 mt-2 md:mt-0">
               <a href="/privacy" className="hover:text-white transition-colors">
                 Privacy Policy
